@@ -1,4 +1,4 @@
-public class StackNode<T> {
+public class Nodo<T> {
    
     private T dato;
     private Nodo<T> siguiente;
